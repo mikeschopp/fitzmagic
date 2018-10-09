@@ -9,3 +9,5 @@ Then, I looked at the standard deviation of all passer ratings to get a sense of
 To score per quarterback, I simply took the QB's individual STDEV and then divided by the average, giving a higher weight to QBs with more volatility.
 
 I wanted to add values for QBs that didn't typically do well but had the potential for greatness. To do that, I added an average passer rating, and divided that by the QB's passer rating. This would score up QBs with bad averages by high volatlity.
+
+Credit to Pro-Football Reference for their amazing site that powered my gamelogs!
